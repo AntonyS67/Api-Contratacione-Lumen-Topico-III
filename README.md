@@ -1,5 +1,9 @@
 This API was created to use in https://github.com/AntonyS67/Front-Contrataciones-React-Topico-III.git
 
+Start the project, with next command:
+
+<code>php -S localhost:8000 -t public</code>
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
